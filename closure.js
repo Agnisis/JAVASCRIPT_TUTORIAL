@@ -13,6 +13,9 @@
 
 
 
+//closure is created when a function is re4turned from another function
+
+
 function outer(){
     let counter=0;
     function inner(){
@@ -21,10 +24,15 @@ function outer(){
         console.log(counter);
         console.log('====================================');
     }
-    return inner;
+    return inner;  //return innenr function and scope chain
 }
 const fun=outer();
 fun();
 fun();
+
+
+
+
+
 
 
