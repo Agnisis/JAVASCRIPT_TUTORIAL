@@ -19,6 +19,11 @@ console.log(person1.getfullname());
 console.log(person2.getfullname());
 
 
-//but its only for person 1 if we want for all then generic protype is needed
+//but its only for person 1 if we want for all then generic prototype is needed
+
+
+
+
+
 
 

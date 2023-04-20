@@ -1,1 +1,1 @@
-reject('Failed')
+return this.firstname+" "+this.lastname
