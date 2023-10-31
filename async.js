@@ -3,8 +3,6 @@
 //synchronous ->execute one line step by step
 //blocking -> process complete ->next process
 //single threaded ->process to run a task  ( single thread main thread )
-
-
 //js is not enough for async so we need web browser 
 
 //timeouts & interval

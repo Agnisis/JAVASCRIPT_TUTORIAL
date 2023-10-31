@@ -24,7 +24,7 @@ function outer(){
         console.log(counter);
         console.log('====================================');
     }
-    return inner;  //return innenr function and scope chain
+    return inner;  //return inner function and scope chain
 }
 const fun=outer();
 fun();

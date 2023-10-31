@@ -1,5 +1,4 @@
 /* 
-
 netscape navigator 1995 -> simple lang for web -> build js in 10 days
 -> 1st name mocha->livescript-> popular java ->named javascript
 
